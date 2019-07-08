@@ -21,7 +21,7 @@ On other languages
   * [Spanish](https://github.com/leolas95/linux-insides)
   * [Russian](https://github.com/proninyaroslav/linux-insides-ru)
   * [Turkish](https://github.com/ayyucedemirbas/linux-insides_Turkish)
-  
+  * [Vietnamese](https://github.com/ita93/linux-insides)
 LICENSE
 -------------
 
